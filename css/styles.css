@@ -47,6 +47,9 @@ h3{
   font-family: 'Merriweather', serif;
   color: #204051;
 }
+.contacth3{
+  font-size: 1.25rem;
+}
 .footer-link{
   color: #3b6978;
   margin-left: 15px;
@@ -107,6 +110,7 @@ a{
 }
 .copyright{
   color: #3b6978;
+  font-size: 1rem;
 }
 .contact-me{
   line-height: 2;
@@ -142,3 +146,4 @@ a{
 	position:relative;
 	top:1px;
 }
+
